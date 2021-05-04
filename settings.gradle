@@ -1,0 +1,3 @@
+include ':basesword'
+include ':app'
+rootProject.name = "BaseSword"
